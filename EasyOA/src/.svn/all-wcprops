@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/easyoa/!svn/ver/206/EasyOA/src
+END
+applicationContext-logsheet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/112/EasyOA/src/applicationContext-logsheet.xml
+END
+applicationContext-applycar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/203/EasyOA/src/applicationContext-applycar.xml
+END
+applicationContext-evection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/189/EasyOA/src/applicationContext-evection.xml
+END
+applicationContext-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/141/EasyOA/src/applicationContext-user.xml
+END
+applicationContext-document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/189/EasyOA/src/applicationContext-document.xml
+END
+applicationContext-notice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/187/EasyOA/src/applicationContext-notice.xml
+END
+applicationContext-filetype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/112/EasyOA/src/applicationContext-filetype.xml
+END
+applicationContext-roleauth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/112/EasyOA/src/applicationContext-roleauth.xml
+END
+applicationContext-desdisk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/easyoa/!svn/ver/203/EasyOA/src/applicationContext-desdisk.xml
+END
+applicationContext-meeting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/easyoa/!svn/ver/203/EasyOA/src/applicationContext-meeting.xml
+END
+applicationContext-leave.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/189/EasyOA/src/applicationContext-leave.xml
+END
+applicationContext-dept.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/112/EasyOA/src/applicationContext-dept.xml
+END
+applicationContext-meetingpreplot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/easyoa/!svn/ver/203/EasyOA/src/applicationContext-meetingpreplot.xml
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/easyoa/!svn/ver/193/EasyOA/src/struts.xml
+END
+applicationContext-auth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/112/EasyOA/src/applicationContext-auth.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/easyoa/!svn/ver/199/EasyOA/src/applicationContext.xml
+END
+applicationContext-dictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/easyoa/!svn/ver/112/EasyOA/src/applicationContext-dictionary.xml
+END
+applicationContext-car.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/easyoa/!svn/ver/203/EasyOA/src/applicationContext-car.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/easyoa/!svn/ver/95/EasyOA/src/log4j.properties
+END

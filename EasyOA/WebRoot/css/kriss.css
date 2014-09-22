@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+img{border:none}
+
+.top_bar{ background: url(images/top_bg.jpg) repeat-x}
+
+
+.ul_nav{ list-style:none; padding:0px; margin:0px;}
+
+.ul_nav a{text-decoration:none;color:#666}
+.ul_nav a:hover{color:#000;}
+
+
+.ul_nav li{ padding:5px; text-align:center;}
+
+.ul_nav li:hover{ background-color:#E9F4F8; border:#CCC dashed  1px}
+
+.ul_nav li img{ }
+
+.ul_nav li h4{ padding:0px; margin:5px}
+
+.top_nav{ float:right}
+
+.table_thintd td{border:#CECECE dashed 1px}

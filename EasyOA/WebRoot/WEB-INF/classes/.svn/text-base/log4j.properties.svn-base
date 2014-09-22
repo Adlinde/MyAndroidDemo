@@ -1,0 +1,8 @@
+#缺省情况下不打印debug信息，但打印info,warn,error,fatal的信息
+log4j.rootLogger=error,A1
+#清算包在调试过程中，打印包括debug在内的信息。
+log4j.logger.com.rootnet.cts.reckoning=DEBUG,A1
+#A1--打印到屏幕上
+log4j.appender.A1=org.apache.log4j.ConsoleAppender
+log4j.appender.A1.layout=org.apache.log4j.PatternLayout
+log4j.appender.A1.layout.ConversionPattern=[%-5p] %d{yyyy-MM-dd HH:mm:ss,SSS} method:%l%n%m%n

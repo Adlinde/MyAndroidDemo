@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/easyoa/!svn/ver/57/EasyOA/WebRoot/WEB-INF
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/spring.tld
+END
+spring-form.tld
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/spring-form.tld
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/easyoa/!svn/ver/57/EasyOA/WebRoot/WEB-INF/web.xml
+END

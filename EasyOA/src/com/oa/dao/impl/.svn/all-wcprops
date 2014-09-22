@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/easyoa/!svn/ver/181/EasyOA/src/com/oa/dao/impl
+END
+PasswordWarmDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/PasswordWarmDaoImpl.java
+END
+LeaveDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/LeaveDaoImpl.java
+END
+RoleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/RoleDaoImpl.java
+END
+AuthDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/AuthDaoImpl.java
+END
+DepartmentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/DepartmentDaoImpl.java
+END
+CarDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/CarDaoImpl.java
+END
+DictionaryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/DictionaryDaoImpl.java
+END
+PunchCardDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/PunchCardDaoImpl.java
+END
+ToolsTableDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/ToolsTableDaoImpl.java
+END
+BqtableDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/BqtableDaoImpl.java
+END
+LogSheetDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/LogSheetDaoImpl.java
+END
+MeetingPreplotImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/MeetingPreplotImpl.java
+END
+ApplyCarDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/ApplyCarDaoImpl.java
+END
+EvectionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/EvectionDaoImpl.java
+END
+DocumentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/easyoa/!svn/ver/181/EasyOA/src/com/oa/dao/impl/DocumentDaoImpl.java
+END
+UserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/UserDaoImpl.java
+END
+NoticeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/NoticeDaoImpl.java
+END
+FileTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/FileTypeDaoImpl.java
+END
+RoleAuthDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/RoleAuthDaoImpl.java
+END
+ApplyResultDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/ApplyResultDaoImpl.java
+END
+MeetingDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/impl/MeetingDaoImpl.java
+END

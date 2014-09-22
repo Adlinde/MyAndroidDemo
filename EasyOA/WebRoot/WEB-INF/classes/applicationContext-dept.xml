@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+<bean id="deptDao" class="com.oa.dao.impl.DepartmentDaoImpl" parent="baseDao">
+ </bean>
+ 
+ <bean id="deptService" class="com.oa.service.impl.DepartmentServiceImpl" parent="baseService">
+ </bean>
+ 
+ 
+ <bean id="deptAction" class="com.oa.action.zyq.DeptAction_zyq" scope="prototype">
+		<property name="deptService" ref="deptService"/>
+ </bean>
+   
+
+	</beans>

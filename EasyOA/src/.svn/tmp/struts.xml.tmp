@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<!-- oa拦截器配置 -->
+	<package name="com.oa" extends="struts-default">
+		<interceptors>
+			<interceptor name="user" class="com.oa.interceptor.SessionIntercetor"/>
+			<interceptor-stack name="mystack">
+			  <interceptor-ref name="defaultStack" /> 
+				<interceptor-ref name="user"/>
+			</interceptor-stack>
+		</interceptors>
+		 <default-interceptor-ref name="mystack" />
+		<global-results>
+		<result name="login">/login/templets/login.jsp</result>
+		</global-results>
+	<!-- oa拦截器配置结束 -->
+	
+	<!--大东哥的部分-->
+	
+		<!--车辆申请action-->
+		<action name="*ApplyCar" class="applycarAction" method="{1}">
+		</action>
+		
+		<!--车辆信息action-->
+		<action name="*Car" class="carAction" method="{1}">
+			<result name="toadd"></result>
+			<result name="add"></result>
+		</action>
+		
+		<!--会议室信息action-->
+		<action name="*Meeting" class="meetingAction" method="{1}">
+			<result name="toadd"></result>
+			<result name="add"></result>
+		</action>
+		
+		<!--会议室申请action-->
+		<action name="*MeetingPreplot" class="meetingPreplotAction" method="{1}">
+			<result name="toadd"></result>
+			<result name="add"></result>
+		</action>
+		<!--通告告信息action-->
+		<action name="*Notice" class="noticeAction" method="{1}">
+			
+			
+		</action>
+
+	<!--大东哥的部分结束-->
+
+	<!-- 庄友权action开始部分 -->
+		<!-- user action -->
+		<action name="*user" class="userAction" method="{1}">
+			<result name="center">/index.jsp</result>
+			<result name="users">pages/system/users.jsp</result>
+		</action>
+		<!-- dept action -->
+		<action name="*dept" class="deptAction" method="{1}">
+		</action>
+	<!-- 庄友权action结束部分 -->
+	
+	
+	<!-- 徐莉婷action开始部分 -->
+	
+		<action name="*Document" class="documentAction" method="{1}">
+	
+		</action>	
+	<!-- 请假action -->
+		<action name="*Leave" class="leaveAction" method="{1}">
+			<result name="toadd"></result>
+			<result name="add"></result>
+		</action>
+
+	
+	<!-- 出差action -->
+		<action name="*Evection" class="evectionAction" method="{1}">
+			<result name="toadd"></result>
+			<result name="add"></result>
+		</action>
+	
+	<!-- 徐莉婷action结束部分 -->
+	</package>
+	<!-- 皓哥开始部分 -->
+		<package name="com.ch" extends="struts-default">
+		<action name="*ApplyResult" class="applyResultAction" method="{1}">
+			
+		</action>
+	</package>
+	<!-- 皓哥结束部分 -->
+</struts>    

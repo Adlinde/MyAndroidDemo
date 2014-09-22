@@ -1,0 +1,13 @@
+package com.oa.service.impl;
+
+import com.oa.common.BaseServiceImpl;
+import com.oa.service.IApplyResultService;
+/**
+ * …Í«Î…Û≈˙Ω·π˚service
+ * @author Administrator
+ *
+ */
+public class ApplyResultServiceImpl extends BaseServiceImpl implements
+		IApplyResultService {
+
+}

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/easyoa/!svn/ver/189/EasyOA/src/com/oa/entity
+END
+OaTbLeave.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/106/EasyOA/src/com/oa/entity/OaTbLeave.java
+END
+OaAuth.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaAuth.hbm.xml
+END
+OaCar.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/123/EasyOA/src/com/oa/entity/OaCar.hbm.xml
+END
+OaDept.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaDept.java
+END
+OaMeetingPreplot.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/123/EasyOA/src/com/oa/entity/OaMeetingPreplot.java
+END
+OaApplyCar.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/51/EasyOA/src/com/oa/entity/OaApplyCar.hbm.xml
+END
+OaSysSetting.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/124/EasyOA/src/com/oa/entity/OaSysSetting.hbm.xml
+END
+OaAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaAuth.java
+END
+OaDocument.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/easyoa/!svn/ver/164/EasyOA/src/com/oa/entity/OaDocument.hbm.xml
+END
+OaNotice.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaNotice.hbm.xml
+END
+OaCar.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/easyoa/!svn/ver/123/EasyOA/src/com/oa/entity/OaCar.java
+END
+OaCoord.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/easyoa/!svn/ver/132/EasyOA/src/com/oa/entity/OaCoord.java
+END
+OaTbLeave.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/158/EasyOA/src/com/oa/entity/OaTbLeave.hbm.xml
+END
+OaRoleAuth.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaRoleAuth.hbm.xml
+END
+OaToolsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaToolsTable.java
+END
+OaBqTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaBqTable.java
+END
+OaLogSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaLogSheet.java
+END
+OaApplyCar.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaApplyCar.java
+END
+OaEvection.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/87/EasyOA/src/com/oa/entity/OaEvection.java
+END
+OaPasswordWarm.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaPasswordWarm.hbm.xml
+END
+OaUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/easyoa/!svn/ver/142/EasyOA/src/com/oa/entity/OaUser.java
+END
+OaDept.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/156/EasyOA/src/com/oa/entity/OaDept.hbm.xml
+END
+OaNotice.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaNotice.java
+END
+OaMeetingPreplot.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/easyoa/!svn/ver/123/EasyOA/src/com/oa/entity/OaMeetingPreplot.hbm.xml
+END
+OaRoleAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaRoleAuth.java
+END
+OaApplyResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/easyoa/!svn/ver/179/EasyOA/src/com/oa/entity/OaApplyResult.java
+END
+OaRole.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaRole.hbm.xml
+END
+OaMeeting.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaMeeting.java
+END
+OaDictionary.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/easyoa/!svn/ver/73/EasyOA/src/com/oa/entity/OaDictionary.hbm.xml
+END
+OaPasswordWarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaPasswordWarm.java
+END
+OaPunchCard.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaPunchCard.hbm.xml
+END
+OaToolsTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaToolsTable.hbm.xml
+END
+OaLogSheet.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaLogSheet.hbm.xml
+END
+OaBqTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaBqTable.hbm.xml
+END
+OaEvection.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/easyoa/!svn/ver/154/EasyOA/src/com/oa/entity/OaEvection.hbm.xml
+END
+OaRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaRole.java
+END
+OaUser.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/142/EasyOA/src/com/oa/entity/OaUser.hbm.xml
+END
+OaDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/104/EasyOA/src/com/oa/entity/OaDictionary.java
+END
+OaPunchCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/65/EasyOA/src/com/oa/entity/OaPunchCard.java
+END
+OaApplyResult.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/179/EasyOA/src/com/oa/entity/OaApplyResult.hbm.xml
+END
+OaMeeting.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/easyoa/!svn/ver/63/EasyOA/src/com/oa/entity/OaMeeting.hbm.xml
+END
+OaSysSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/124/EasyOA/src/com/oa/entity/OaSysSetting.java
+END
+OaDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/189/EasyOA/src/com/oa/entity/OaDocument.java
+END

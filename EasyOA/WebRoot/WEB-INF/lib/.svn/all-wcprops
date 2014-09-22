@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib
+END
+org.springframework.context-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.context-3.1.1.RELEASE.jar
+END
+org.springframework.transaction-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.transaction-3.1.1.RELEASE.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/aopalliance.jar
+END
+org.springframework.beans-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.beans-3.1.1.RELEASE.jar
+END
+mysql-connector-java-5.1.18-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.18-bin.jar
+END
+org.springframework.core-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.core-3.1.1.RELEASE.jar
+END
+javassist-3.11.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/javassist-3.11.0.GA.jar
+END
+com.springsource.org.quartz-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/com.springsource.org.quartz-1.6.2.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/log4j.jar
+END
+commons-dbcp-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/commons-dbcp-1.3.jar
+END
+org.springframework.expression-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.expression-3.1.1.RELEASE.jar
+END
+org.springframework.jdbc-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.jdbc-3.1.1.RELEASE.jar
+END
+commons-pool-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/commons-pool-1.5.6.jar
+END
+commons-fileupload-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar
+END
+ognl-3.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/ognl-3.0.3.jar
+END
+xwork-core-2.3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/xwork-core-2.3.1.1.jar
+END
+aspectjweaver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/aspectjweaver.jar
+END
+c3p0-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/c3p0-0.9.1.jar
+END
+freemarker-2.3.18.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/freemarker-2.3.18.jar
+END
+struts2-core-2.3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/struts2-core-2.3.1.1.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/jta-1.1.jar
+END
+commons-io-2.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/commons-io-2.0.1.jar
+END
+ezmorph-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/ezmorph-1.0.1.jar
+END
+org.springframework.orm-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.orm-3.1.1.RELEASE.jar
+END
+struts2-spring-plugin-2.3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/struts2-spring-plugin-2.3.1.1.jar
+END
+ehcache-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/ehcache-1.6.2.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/hibernate3.jar
+END
+org.springframework.context.support-3.0.5.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.context.support-3.0.5.RELEASE.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/commons-collections-3.1.jar
+END
+mysql-connector-java-5.1.6-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar
+END
+mysql-connector-java-5.1.7-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/antlr-2.7.6.jar
+END
+json-lib-2.4-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/commons-lang-2.5.jar
+END
+org.springframework.web-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.web-3.1.1.RELEASE.jar
+END
+classes12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/classes12.jar
+END
+commons-beanutils-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/commons-beanutils-1.7.0.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/slf4j-api-1.5.8.jar
+END
+org.springframework.aop-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.aop-3.1.1.RELEASE.jar
+END
+org.springframework.asm-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/org.springframework.asm-3.1.1.RELEASE.jar
+END
+slf4j-log4j12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/slf4j-log4j12.jar
+END
+cglib-nodep-2.1_3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/2/EasyOA/WebRoot/WEB-INF/lib/cglib-nodep-2.1_3.jar
+END

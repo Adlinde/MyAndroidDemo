@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/easyoa/!svn/ver/181/EasyOA/src/com/oa/dao
+END
+IDepartmentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IDepartmentDao.java
+END
+IDictionaryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IDictionaryDao.java
+END
+ICarDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/ICarDao.java
+END
+IPunchCardDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IPunchCardDao.java
+END
+IToolsTableDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IToolsTableDao.java
+END
+ILogSheetDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/ILogSheetDao.java
+END
+IBqtableDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IBqtableDao.java
+END
+IApplyCarDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IApplyCarDao.java
+END
+IEvectionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IEvectionDao.java
+END
+IDocumentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/easyoa/!svn/ver/181/EasyOA/src/com/oa/dao/IDocumentDao.java
+END
+IUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IUserDao.java
+END
+INoticeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/INoticeDao.java
+END
+IFileTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IFileTypeDao.java
+END
+IRoleAuthDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IRoleAuthDao.java
+END
+IMeetingDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IMeetingDao.java
+END
+IPasswordWarmDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IPasswordWarmDao.java
+END
+ILeaveDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/ILeaveDao.java
+END
+IMeetingPreplotDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IMeetingPreplotDao.java
+END
+IApplyResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IApplyResult.java
+END
+IAuthDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IAuthDao.java
+END
+IRoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/easyoa/!svn/ver/19/EasyOA/src/com/oa/dao/IRoleDao.java
+END

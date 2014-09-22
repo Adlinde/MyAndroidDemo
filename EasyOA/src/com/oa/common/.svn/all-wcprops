@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/easyoa/!svn/ver/164/EasyOA/src/com/oa/common
+END
+BaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/common/BaseDaoImpl.java
+END
+IBaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/141/EasyOA/src/com/oa/common/IBaseService.java
+END
+IBaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/common/IBaseDao.java
+END
+BaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/easyoa/!svn/ver/164/EasyOA/src/com/oa/common/BaseAction.java
+END
+BaseServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/143/EasyOA/src/com/oa/common/BaseServiceImpl.java
+END

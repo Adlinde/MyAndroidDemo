@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/easyoa/!svn/ver/189/EasyOA/src/com/oa/service
+END
+IDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IDictionaryService.java
+END
+ICarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/ICarService.java
+END
+IPunchCardService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IPunchCardService.java
+END
+IToolsTableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IToolsTableService.java
+END
+ILogSheetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/ILogSheetService.java
+END
+IBqtableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IBqtableService.java
+END
+IApplyCarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IApplyCarService.java
+END
+IEvectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IEvectionService.java
+END
+IDocumentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/easyoa/!svn/ver/181/EasyOA/src/com/oa/service/IDocumentService.java
+END
+IUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/64/EasyOA/src/com/oa/service/IUserService.java
+END
+INoticeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/INoticeService.java
+END
+IFileTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IFileTypeService.java
+END
+IRoleAuthService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IRoleAuthService.java
+END
+IApplyResultService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IApplyResultService.java
+END
+IMeetingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IMeetingService.java
+END
+IPasswordWarmService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IPasswordWarmService.java
+END
+ILeaveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/ILeaveService.java
+END
+IMeetingPreplotService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IMeetingPreplotService.java
+END
+IAuthService.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IAuthService.java
+END
+IRoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IRoleService.java
+END
+IDepartmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/easyoa/!svn/ver/42/EasyOA/src/com/oa/service/IDepartmentService.java
+END
