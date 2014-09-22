@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/mainlout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:background="#f2f1ed" >
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#f79348" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#f7f6f6"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:showDividers="beginning" >
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <RadioButton
+                android:id="@+id/radioButton1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#f7f6f6"
+                android:button="@null"
+                android:drawableTop="@drawable/mainmenu_set_rb1"
+                android:gravity="center_horizontal"
+                android:text="彩票大厅"
+                android:textColor="#62615f"
+                android:textSize="10dp" />
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#f7f6f6"
+                android:button="@null"
+                android:drawableTop="@drawable/mainmenu_set_rb2"
+                android:gravity="center_horizontal"
+                android:text="合买中心"
+                android:textColor="#62615f"
+                android:textSize="10dp" />
+
+            <RadioButton
+                android:id="@+id/radioButton3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#f7f6f6"
+                android:button="@null"
+                android:drawableTop="@drawable/mainmenu_set_rb3"
+                android:gravity="center_horizontal"
+                android:text="开奖信息"
+                android:textColor="#62615f"
+                android:textSize="10dp" />
+
+            <RadioButton
+                android:id="@+id/radioButton4"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#f7f6f6"
+                android:button="@null"
+                android:drawableTop="@drawable/main_user"
+                android:gravity="center_horizontal"
+                android:text="我的账户"
+                android:textColor="#62615f"
+                android:textSize="10dp" />
+
+            <RadioButton
+                android:id="@+id/radioButton5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#f7f6f6"
+                android:button="@null"
+                android:drawableTop="@drawable/mainmenu_set_rb5"
+                android:gravity="center_horizontal"
+                android:text="更多信息"
+                android:textColor="#62615f"
+                android:textSize="10dp" />
+        </RadioGroup>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,88 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" > 
+    
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="小圆形进度条"
+        />
+    <ProgressBar 
+        android:id="@+id/progressbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleSmallTitle"
+        />
+    
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="中圆形进度条"
+        />
+    <ProgressBar 
+        android:id="@+id/progressbar2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    
+    
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="大圆形进度条"
+        />
+    <ProgressBar 
+        android:id="@+id/progressbar3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleLarge"
+        />
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="水平进度条"
+        />
+    <ProgressBar 
+        android:id="@+id/progressbar4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:max="100"
+        android:progress="30"
+        />
+    
+    
+    <ProgressBar 
+        android:id="@+id/progressbar5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:max="100"
+        android:progress="30"
+        android:secondaryProgress="60"
+        android:layout_marginTop="20dp"
+        />
+    <LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:orientation="horizontal" > 
+	    <Button 
+	    android:id="@+id/button1"
+	    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="添加进度"
+	        />
+	    <Button 
+	    android:id="@+id/button2"
+	    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="减少进度"
+	        />
+    </LinearLayout>
+    
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">期期乐彩票</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="zhuce"><u>免费注册</u></string>
+    <string name="zhaohui"><u>找回密码</u></string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">常用ui控件</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="green">#00FF00</color>
+    <string name="link_text"><a href="12354879542">打电话</a></string>
+
+</resources>

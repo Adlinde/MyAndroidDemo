@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" > 
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="scaleType:center为缩放，放在ImageView的中心"
+        />
+    <ImageView 
+        android:id="@+id/imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#F00"
+        android:src="@drawable/button3"
+        android:scaleType="center"
+        />
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="scaleType:fitcenter按照比例缩放，放在ImageView的中心"
+        />
+    <ImageView 
+        android:id="@+id/imageview2"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:background="#F00"
+        android:src="@drawable/button3"
+        android:scaleType="fitCenter"
+        android:padding="10dp"
+        />
+</LinearLayout>
